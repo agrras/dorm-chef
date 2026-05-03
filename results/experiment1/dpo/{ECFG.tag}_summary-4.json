@@ -1,0 +1,18 @@
+{
+  "model": "gpt-4-1-nano-2025-04-14-ft-e456d7607fb3499db3091af24f4a60a5",
+  "tag": "dpo-alpha",
+  "n_total": 400,
+  "n_generated_ok": 400,
+  "n_judged": 400,
+  "generation_fail_rate": 0.0,
+  "judge_fail_rate": 0.0,
+  "ingredient_compliance_rate": 0.975,
+  "num_steps_in_range_rate": 1.0,
+  "cook_time_in_range_rate": 0.995,
+  "all_pass_rate": 0.97,
+  "avg_num_steps": 6.62,
+  "avg_cook_time_min": 12.41,
+  "coherence_rate": 0.9925,
+  "student_friendly_rate": 0.9975,
+  "llm_score_avg": 0.995
+}

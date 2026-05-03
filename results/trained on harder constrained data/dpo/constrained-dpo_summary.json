@@ -1,0 +1,19 @@
+{
+  "model": "1-nano-2025-04-14-1",
+  "tag": "constrained-dpo",
+  "n_total": 200,
+  "n_generated_ok": 200,
+  "n_judged": 200,
+  "generation_fail_rate": 0.0,
+  "judge_fail_rate": 0.0,
+  "ingredient_compliance_rate": 0.935,
+  "num_steps_in_range_rate": 0.94,
+  "cook_time_in_range_rate": 0.955,
+  "constraint_followed_rate": 0.935,
+  "all_pass_rate": 0.835,
+  "avg_num_steps": 6.575,
+  "avg_cook_time_min": 12.345,
+  "coherence_rate": 0.955,
+  "student_friendly_rate": 0.975,
+  "llm_score_avg": 0.965
+}

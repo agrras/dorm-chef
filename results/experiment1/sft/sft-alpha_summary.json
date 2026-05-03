@@ -1,0 +1,18 @@
+{
+  "model": "1-nano-2025-04-14-supervised-fine-tuning-",
+  "tag": "sft-alpha",
+  "n_total": 400,
+  "n_generated_ok": 400,
+  "n_judged": 400,
+  "generation_fail_rate": 0.0,
+  "judge_fail_rate": 0.0,
+  "ingredient_compliance_rate": 0.9825,
+  "num_steps_in_range_rate": 1.0,
+  "cook_time_in_range_rate": 1.0,
+  "all_pass_rate": 0.9825,
+  "avg_num_steps": 6.1375,
+  "avg_cook_time_min": 12.495,
+  "coherence_rate": 1.0,
+  "student_friendly_rate": 1.0,
+  "llm_score_avg": 1.0
+}

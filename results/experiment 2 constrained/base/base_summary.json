@@ -1,0 +1,19 @@
+{
+  "model": "gpt-4.1-nano",
+  "tag": "base",
+  "n_total": 200,
+  "n_generated_ok": 200,
+  "n_judged": 200,
+  "generation_fail_rate": 0.0,
+  "judge_fail_rate": 0.0,
+  "ingredient_compliance_rate": 0.95,
+  "num_steps_in_range_rate": 0.98,
+  "cook_time_in_range_rate": 0.96,
+  "constraint_followed_rate": 0.87,
+  "all_pass_rate": 0.815,
+  "avg_num_steps": 5.965,
+  "avg_cook_time_min": 11.34,
+  "coherence_rate": 0.98,
+  "student_friendly_rate": 1.0,
+  "llm_score_avg": 0.99
+}
